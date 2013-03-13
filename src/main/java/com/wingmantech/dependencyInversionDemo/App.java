@@ -1,9 +1,10 @@
-package com.usana.dependencyInversionDemo;
+package com.wingmantech.dependencyInversionDemo;
 
 /**
- * Hello world!
- *
+ Author: Monte Wingle
+ Created: March 12, 2013
  */
+
 public class App 
 {
     public static void main( String[] args )
